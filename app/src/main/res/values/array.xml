@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array
+        name="Realistic">
+        <item>Are you systematic?</item>
+        <item>Are you self-controlled?</item>
+        <item>Are you straightforward?</item>
+        <item>Are you independent?</item>
+        <item>Are you practical?</item>
+        <item>Can you play a sport?</item>
+        <item>Can you operate tools and machinery?</item>
+        <item>Can you plant a garden?</item>
+        <item>Can you pitch a tent?</item>
+        <item>Do you like working outdoors?</item>
+        <item>Do you like being physically active?</item>
+        <item>Do you like working on electronic equipment?</item>
+        <item>Do you like training animals?</item>
+        <item>Do you like building things?</item>
+
+    </string-array>
+    <string-array
+        name="Artistic">
+        <item>Can you sing, act, or dance
+          sketch, draw, or paint?</item>
+        <item>Can you design fashions or interiors
+write stories, poetry, or music?</item>
+        <item>Are you creative?</item>
+        <item>Are you imaginative?</item>
+        <item>Are you unconventional?</item>
+        <item>Are you expressive?</item>
+        <item>Are you impulsive?</item>
+        <item>Do you like working on crafts?</item>
+        <item>Do you like taking photographs?</item>
+        <item>Do you like attending concerts, art exhibits, or theatre
+            productions?</item>
+        <item>Do you like reading fiction, plays, or poetry?</item>
+
+
+
+
+    </string-array>
+    <string-array
+        name="Investigative">
+        <item>Are you logical?</item>
+        <item>Are you curious?</item>
+        <item>Are you inquisitive?</item>
+        <item>Are you observant?</item>
+        <item>Are you scholarly?</item>
+        <item>Can you think abstractly?</item>
+        <item>Can you understand theories?</item>
+        <item>Can you interpret formulas?</item>
+        <item>Can you use a computer or microscope?</item>
+        <item>Can you solve complex problems?</item>
+        <item>Like to analyze data? </item>
+        <item>Like to work independently?</item>
+        <item>Like to explain scientific theories?</item>
+        <item>Like to perform experiments?</item>
+        <item>Like to explore ideas?</item>
+
+    </string-array>
+    <string-array
+        name="Social">
+        <item>Are you patient?</item>
+        <item>Are you insightful?</item>
+        <item>Are you responsible?</item>
+        <item>Are you cooperative?</item>
+        <item>Are you outgoing?</item>
+        <item>Can you teach or train?</item>
+        <item>Can you mediate disputes?</item>
+        <item>Can you lead a discussion?</item>
+        <item>Can you communicate well with others?</item>
+        <item>Can you plan and supervise activities?</item>
+        <item>Do you like working in groups?</item>
+        <item>Do you like volunteering in schools?</item>
+        <item>Do you like solving personal problems?</item>
+        <item>Do you like providing service to communities?</item>
+
+    </string-array>
+    <string-array
+        name="Entreprenural">
+        <item>Are you assertive?</item>
+        <item>Are you optimistic?</item>
+        <item>Are you ambitious?</item>
+        <item>Are you persuasive?</item>
+        <item>Are you energetic?</item>
+        <item>Can you initiate projects?</item>
+        <item>Can you give speeches?</item>
+        <item>Can you create persuasive presentations?</item>
+        <item>Can you lead a large group?</item>
+        <item>Can you develop organizational structures?</item>
+        <item>would you Like run a political campaign?</item>
+        <item>Do you like making decisions?</item>
+        <item>Do you like meeting others in positions of power?</item>
+        <item>Do you like taking on leadership roles?</item>
+
+
+
+    </string-array>
+    <string-array
+        name="Conventional">
+        <item>Are you efficient?</item>
+        <item>Are you conscientious?</item>
+        <item>Are you well-organized?</item>
+        <item>Are you persistent ?</item>
+        <item>Can you use a database?</item>
+        <item>Are you abide by deadlines?</item>
+        <item>Can you file large quantities of paper work?</item>
+        <item>Can you keep accurate records?</item>
+        <item>Do you like to follow procedures?</item>
+        <item>Do you like working with numbers?</item>
+        <item>Do you like using data processing equipment?</item>
+        <item>Do you like collecting and organizing data?</item>
+
+
+
+
+    </string-array>
+
+</resources>

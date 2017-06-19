@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/content_nav"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.shiro.careersmart.NavActivity"
+    tools:showIn="@layout/app_bar_nav">
+
+
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/scrollView" >
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:paddingTop="10dp"
+                    android:layout_alignParentTop="true">
+
+
+                        <android.support.v7.widget.CardView
+                            android:id="@+id/card_view1"
+                            android:layout_gravity="center"
+                            android:layout_width="308dp"
+                            android:layout_height="250dp"
+                            android:padding="2dp"
+                            card_view:cardCornerRadius="10dp"
+                            card_view:cardBackgroundColor="@android:color/white"
+                            android:layout_marginLeft="10dp"
+                            android:layout_marginRight="10dp"
+                            android:layout_marginTop="10dp"
+                            android:layout_marginBottom="10dp">
+
+                                <TextView
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:textSize="16sp"
+                                android:layout_centerVertical="true"
+                                android:layout_alignParentRight="true"
+                                android:layout_alignParentEnd="true"
+                                android:textColor="#9f3430"
+                                android:layout_marginLeft="10dp"
+                                android:text="Realistic"
+                                    android:textStyle="bold"/>
+
+
+                                <TextView
+                                    android:id="@+id/txtName"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginTop="40dp"
+                                    android:textSize="18sp"
+                                    android:layout_centerVertical="true"
+                                    android:layout_alignParentRight="true"
+                                    android:layout_alignParentEnd="true"
+                                    android:textColor="#000000"
+                                    android:text="Likes to work with tools,or machines generally avoids social activities like teaching,healing, and informing others.
+                                                  Values practical activities that one can see, touch,tools, equipment, or machines and
+                                                  Sees self as practical, mechanical, and realistic"
+
+                                    android:layout_marginLeft="10dp"/>
+                        </android.support.v7.widget.CardView>
+
+                        <android.support.v7.widget.CardView
+                            android:id="@+id/card_view2"
+                            android:layout_gravity="center"
+                            android:layout_width="308dp"
+                            android:layout_height="250dp"
+                            android:padding="2dp"
+                            card_view:cardCornerRadius="10dp"
+                            card_view:cardBackgroundColor="@color/colorWhite"
+                            android:layout_marginLeft="10dp"
+                            android:layout_marginRight="10dp"
+                            android:layout_marginTop="10dp"
+                            android:layout_marginBottom="10dp">
+                                <TextView
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:textSize="16sp"
+                                    android:layout_centerVertical="true"
+                                    android:layout_alignParentRight="true"
+                                    android:layout_alignParentEnd="true"
+                                    android:textColor="#9f3430"
+                                    android:layout_marginLeft="10dp"
+                                    android:text="Investigative"
+                                    android:textStyle="bold"/>
+
+
+
+                                <TextView
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:id="@+id/txtCareer"
+                                    android:layout_marginTop="40dp"
+                                    android:textSize="18sp"
+                                    android:layout_centerVertical="true"
+                                    android:layout_alignParentRight="true"
+                                    android:layout_alignParentEnd="true"
+                                    android:textColor="#000000"
+                                    android:text="Likes to study and solve math or science problems, generally avoids leading,selling,or persuading people.
+
+                                                  Is good at understanding and solving science and math problems;Values science and
+                                                 Sees self as precise, scientific, and intellectual."
+                                    android:layout_marginLeft="10dp"/>
+
+                        </android.support.v7.widget.CardView>
+
+                        <android.support.v7.widget.CardView
+                            android:id="@+id/card_view3"
+                            android:layout_gravity="center"
+                            android:layout_width="308dp"
+                            android:layout_height="280dp"
+                            android:padding="2dp"
+                            card_view:cardCornerRadius="10dp"
+                            card_view:cardBackgroundColor="@color/colorWhite"
+                            android:layout_marginLeft="10dp"
+                            android:layout_marginRight="10dp"
+                            android:layout_marginTop="10dp"
+                            android:layout_marginBottom="10dp">
+                                <TextView
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:textSize="16sp"
+                                    android:layout_centerVertical="true"
+                                    android:layout_alignParentRight="true"
+                                    android:layout_alignParentEnd="true"
+                                    android:textColor="#9f3430"
+                                    android:layout_marginLeft="10dp"
+                                    android:text="Artistic "
+                                    android:textStyle="bold"/>
+
+
+
+                                <TextView
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:id="@+id/txtSkills"
+                                    android:layout_marginTop="40dp"
+                                    android:textSize="18sp"
+                                    android:layout_centerVertical="true"
+                                    android:layout_alignParentRight="true"
+                                    android:layout_alignParentEnd="true"
+                                    android:textColor="#000000"
+                                    android:text="Likes to do creative activities like art, drama, crafts, dance, music, or creative writing, generally avoids highly ordered or repetitive activities.
+
+                                                  Has good artistic abilities in creative writing, drama, crafts, music, or art.
+                                                  Values the creative arts like drama, music, art, or the works of creative writers and
+                                                  Sees self as expressive, original, and independent."
+                                    android:layout_marginLeft="10dp"/>
+                        </android.support.v7.widget.CardView>
+
+                        <android.support.v7.widget.CardView
+                        android:layout_gravity="center"
+                        android:layout_width="308dp"
+                        android:layout_height="280dp"
+                        android:padding="2dp"
+                        card_view:cardCornerRadius="10dp"
+                        android:background="@color/colorWhite"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginRight="10dp"
+                        android:layout_marginTop="10dp"
+                        android:layout_marginBottom="10dp">
+                                <TextView
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:textSize="16sp"
+                                    android:layout_centerVertical="true"
+                                    android:layout_alignParentRight="true"
+                                    android:layout_alignParentEnd="true"
+                                    android:textColor="#9f3430"
+                                    android:layout_marginLeft="10dp"
+                                    android:text="Social"
+                                    android:textStyle="bold"/>
+
+                                <TextView
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginTop="40dp"
+                                    android:textSize="18sp"
+                                    android:layout_centerVertical="true"
+                                    android:layout_alignParentRight="true"
+                                    android:layout_alignParentEnd="true"
+                                    android:textColor="#000000"
+                                    android:text="Likes to do things to help people like, teaching, nursing, or giving first aid, providing information, generally avoids using machines, tools, or animals to achieve a goal.
+
+                                      Is good at teaching, counseling, nursing, or giving information.
+                                      Values helping people and solving social problems and
+                                       Sees self as helpful, friendly, and trustworthy."
+                                    android:layout_marginLeft="10dp"/>
+
+
+
+                        </android.support.v7.widget.CardView>
+
+                        <android.support.v7.widget.CardView
+                            android:id="@+id/card_view5"
+                            android:layout_gravity="center"
+                            android:layout_width="308dp"
+                            android:layout_height="280dp"
+                            android:padding="2dp"
+                            card_view:cardCornerRadius="10dp"
+                            card_view:cardBackgroundColor="@color/colorWhite"
+                            android:layout_marginLeft="10dp"
+                            android:layout_marginRight="10dp"
+                            android:layout_marginTop="10dp"
+                            android:layout_marginBottom="10dp">
+                                <TextView
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:textSize="16sp"
+                                    android:layout_centerVertical="true"
+                                    android:layout_alignParentRight="true"
+                                    android:layout_alignParentEnd="true"
+                                    android:textColor="#9f3430"
+                                    android:layout_marginLeft="10dp"
+                                    android:text="Entreprising"
+                                    android:textStyle="bold"/>
+
+
+
+
+                                <TextView
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:id="@+id/txtSocial"
+                                    android:layout_marginTop="40dp"
+                                    android:textSize="18sp"
+                                    android:layout_centerVertical="true"
+                                    android:layout_alignParentRight="true"
+                                    android:layout_alignParentEnd="true"
+                                    android:textColor="#000000"
+                                    android:text="Likes to lead and persuade people, and to sell things and ideas; generally avoids activities that require careful observation and scientific, analytical thinking.
+
+                                                  Is good at leading people and selling things or ideas.
+                                                  Values success in politics, leadership, or business and
+                                                  Sees self as energetic, ambitious, and sociable."
+                                    android:layout_marginLeft="10dp"/>
+                        </android.support.v7.widget.CardView>
+
+                        <android.support.v7.widget.CardView
+                            android:id="@+id/card_view6"
+                            android:layout_gravity="center"
+                            android:layout_width="308dp"
+                            android:layout_height="270dp"
+                            android:padding="2dp"
+                            card_view:cardCornerRadius="10dp"
+                            card_view:cardBackgroundColor="@color/colorWhite"
+                            android:layout_marginLeft="10dp"
+                            android:layout_marginRight="10dp"
+                            android:layout_marginTop="10dp"
+                            android:layout_marginBottom="10dp">
+                                <TextView
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:textSize="16sp"
+                                    android:layout_centerVertical="true"
+                                    android:layout_alignParentRight="true"
+                                    android:layout_alignParentEnd="true"
+                                    android:textColor="#9f3430"
+                                    android:layout_marginLeft="10dp"
+                                    android:text="Conventional"
+                                    android:textStyle="bold"/>
+
+                                <TextView
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:id="@+id/txtConventional"
+                                    android:layout_marginTop="40dp"
+                                    android:textSize="18sp"
+                                    android:layout_centerVertical="true"
+                                    android:layout_alignParentRight="true"
+                                    android:layout_alignParentEnd="true"
+                                    android:textColor="#000000"
+                                    android:text="Likes to work with numbers, records, or machines in a set, orderly way; generally avoids ambiguous, unstructured activities
+                                                  Is good at working with written records and numbers in a systematic, orderly way.
+                                                   Values success in business and
+                                                   Sees self as orderly, and good at following a set plan."
+                                    android:layout_marginLeft="10dp"/>
+                        </android.support.v7.widget.CardView>
+
+
+                </LinearLayout>
+        </ScrollView>
+
+</RelativeLayout>

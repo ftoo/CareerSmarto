@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/faithtoo/AndroidStudioProjects/CareerSmarto/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/Users/faithtoo/AndroidStudioProjects/CareerSmarto/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-8.4.0_8508b990b66e80dafd68f13018aaa9266c567d70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/faithtoo/AndroidStudioProjects/CareerSmarto/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/faithtoo/AndroidStudioProjects/CareerSmarto/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.4.0_6a8eb58a36408718543dbb30977ac0c2f5c0cfb3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/faithtoo/AndroidStudioProjects/CareerSmarto/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/faithtoo/AndroidStudioProjects/CareerSmarto/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.1.1_83f66816577a99fb8166775edeae6f5fe80f678e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/faithtoo/AndroidStudioProjects/CareerSmarto/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="39ae02ce40c3ac828abbf780ce0ff5d7a28b7d6a">
+        <dex dex="/Users/faithtoo/AndroidStudioProjects/CareerSmarto/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.0.1_eb5b93b44d1336392298e3caa2d2e5ed476237d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/faithtoo/AndroidStudioProjects/CareerSmarto/app/build/intermediates/exploded-aar/com.android.volley/volley/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/Users/faithtoo/AndroidStudioProjects/CareerSmarto/app/build/intermediates/pre-dexed/debug/com.android.volley-volley-1.0.0_73c76ed5ae7bbc7661bc9808af6a20c27fa386eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/faithtoo/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/faithtoo/AndroidStudioProjects/CareerSmarto/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1_c5050e7b0d7d5baf78a619a81a1ec5c22cd95c47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/faithtoo/AndroidStudioProjects/CareerSmarto/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/faithtoo/AndroidStudioProjects/CareerSmarto/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.1_e9e385a01fbc9358f28a5e31d7013427dfbf8ee0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/faithtoo/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/faithtoo/AndroidStudioProjects/CareerSmarto/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_9f5abd848c8919440e9554f90653d7850b5a279c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/faithtoo/AndroidStudioProjects/CareerSmarto/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Users/faithtoo/AndroidStudioProjects/CareerSmarto/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.1.1_52c4744f415990091d112435549df273ac2aab3f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/faithtoo/AndroidStudioProjects/CareerSmarto/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/faithtoo/AndroidStudioProjects/CareerSmarto/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_5bedf6836c7fd072b0a66620ca7d886c455ab3c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/faithtoo/.gradle/caches/modules-2/files-2.1/com.nostra13.universalimageloader/universal-image-loader/1.9.5/442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375/universal-image-loader-1.9.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
+        <dex dex="/Users/faithtoo/AndroidStudioProjects/CareerSmarto/app/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.5_780903d10672a1305dbae1874eb926eddd965653.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/faithtoo/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.6.0/a7537446a030da8eb0da4c71424d16c2589f6c4a/glide-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a7537446a030da8eb0da4c71424d16c2589f6c4a">
+        <dex dex="/Users/faithtoo/AndroidStudioProjects/CareerSmarto/app/build/intermediates/pre-dexed/debug/glide-3.6.0_71fa3f12002fc37560c26e28d8a9c8caeea70eb7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/faithtoo/AndroidStudioProjects/CareerSmarto/app/build/intermediates/exploded-aar/com.miguelcatalan/materialsearchview/1.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="918e3e9514d90e54421b674cf0c95044f4e155ad">
+        <dex dex="/Users/faithtoo/AndroidStudioProjects/CareerSmarto/app/build/intermediates/pre-dexed/debug/com.miguelcatalan-materialsearchview-1.4.0_08079cf7ab32fe8dfd0212f8f0e1f8580d59e6ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/faithtoo/AndroidStudioProjects/CareerSmarto/app/build/intermediates/exploded-aar/de.cketti.mailto/email-intent-builder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25b3e8060d89ffd9749008a0c06f265a94130b58">
+        <dex dex="/Users/faithtoo/AndroidStudioProjects/CareerSmarto/app/build/intermediates/pre-dexed/debug/de.cketti.mailto-email-intent-builder-1.0.0_f760fbf650d7286e729a934569d9abb2890b4fe6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/faithtoo/AndroidStudioProjects/CareerSmarto/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/faithtoo/AndroidStudioProjects/CareerSmarto/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_f79a92c9f183fc99699f293f2ba2f681c6fa1e4e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/faithtoo/AndroidStudioProjects/CareerSmarto/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="/Users/faithtoo/AndroidStudioProjects/CareerSmarto/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-8.4.0_498a489b3cee3447e74e289932fe24c1f084cb63.jar" />
+    </item>
+
+</items>

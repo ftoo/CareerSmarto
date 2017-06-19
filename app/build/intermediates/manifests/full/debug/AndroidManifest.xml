@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.shiro.careersmart"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="23" />
+
+    <uses-feature
+        android:glEsVersion="0x00020000"
+        android:required="true" />
+
+    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/graduate"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.shiro.careersmart.LandingPage"
+            android:theme="@style/AppTheme.NoActionBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.shiro.careersmart.SplashScreen"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.example.shiro.careersmart.Realistic"
+            android:label="@string/title_activity_realistic"
+            android:theme="@style/AppTheme.NoActionBar" >
+            <intent-filter>
+                <action android:name="package.Realistic" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.shiro.careersmart.Artistic"
+            android:label="@string/title_activity_artistic"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.example.shiro.careersmart.Investigative"
+            android:label="@string/title_activity_investigative"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.example.shiro.careersmart.Social"
+            android:label="@string/title_activity_social"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.example.shiro.careersmart.Entreprenural"
+            android:label="@string/title_activity_entreprenural"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.example.shiro.careersmart.Conventional"
+            android:label="@string/title_activity_conventional"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.example.shiro.careersmart.Score"
+            android:label="@string/title_activity_score"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <!-- <activity -->
+        <!-- android:name=".Careers" -->
+        <!-- android:label="@string/title_activity_careers" -->
+        <!-- android:theme="@style/AppTheme.NoActionBar"> -->
+        <!-- <meta-data android:name="android.app.searchable" -->
+        <!-- android:resource="@xml/searchable"/> -->
+        <!-- </activity> -->
+
+
+        <!-- <activity android:name=".Careers" -->
+        <!-- android:theme="@style/AppTheme.NoActionBar" -->
+
+
+        <!-- android:windowSoftInputMode="stateHidden" -->
+        <!-- android:launchMode="singleTask"> -->
+        <!-- <intent-filter> -->
+        <!-- <action android:name="android.intent.action.SEARCH" /> -->
+        <!-- </intent-filter> -->
+        <!-- <meta-data android:name="android.app.searchable" -->
+        <!-- android:resource="@xml/searchable"/> -->
+        <!-- </activity> -->
+        <activity
+            android:name="com.example.shiro.careersmart.Careers"
+            android:configChanges="orientation"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" >
+            android:windowSoftInputMode="stateHidden"
+            android:launchMode="singleTask">
+            <intent-filter>
+                <action android:name="android.intent.action.SEARCH" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.app.searchable"
+                android:resource="@xml/searchable" />
+        </activity>
+        <activity
+            android:name="com.example.shiro.careersmart.Mentors"
+            android:label="@string/title_activity_mentors"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.example.shiro.careersmart.Knowyou"
+            android:label="@string/title_activity_knowyou"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.example.shiro.careersmart.Yourcareer"
+            android:label="@string/title_activity_yourcareer"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.example.shiro.careersmart.MentorDetails"
+            android:label="@string/title_activity_mentor_details"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.example.shiro.careersmart.OtherCareers"
+            android:label="@string/title_activity_other_careers"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <!--
+ ATTENTION: This was auto-generated to add Google Play services to your project for
+     App Indexing.  See https://g.co/AppIndexing/AndroidStudio for more information.
+        -->
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <activity
+            android:name="com.example.shiro.careersmart.NavActivity"
+            android:label="Guide"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.example.shiro.careersmart.OtherCareerPossibilities"
+            android:label="@string/title_activity_other_career_possibilities"
+            android:theme="@style/AppTheme.NoActionBar" />
+    </application>
+
+</manifest>

@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/faithtoo/AndroidStudioProjects/CareerSmarto/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher_splashscreen.png",
+        "source": "/Users/faithtoo/AndroidStudioProjects/CareerSmarto/app/src/main/res/mipmap-xhdpi/ic_launcher_splashscreen.png"
+    },
+    {
+        "merged": "/Users/faithtoo/AndroidStudioProjects/CareerSmarto/app/build/intermediates/res/merged/debug/mipmap-xhdpi/graduate.png",
+        "source": "/Users/faithtoo/AndroidStudioProjects/CareerSmarto/app/src/main/res/mipmap-xhdpi/graduate.png"
+    },
+    {
+        "merged": "/Users/faithtoo/AndroidStudioProjects/CareerSmarto/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/Users/faithtoo/AndroidStudioProjects/CareerSmarto/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/faithtoo/AndroidStudioProjects/CareerSmarto/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher_about.png",
+        "source": "/Users/faithtoo/AndroidStudioProjects/CareerSmarto/app/src/main/res/mipmap-xhdpi/ic_launcher_about.png"
+    },
+    {
+        "merged": "/Users/faithtoo/AndroidStudioProjects/CareerSmarto/app/build/intermediates/res/merged/debug/mipmap-xhdpi/splashlogo.png",
+        "source": "/Users/faithtoo/AndroidStudioProjects/CareerSmarto/app/src/main/res/mipmap-xhdpi/splashlogo.png"
+    },
+    {
+        "merged": "/Users/faithtoo/AndroidStudioProjects/CareerSmarto/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher_professional.png",
+        "source": "/Users/faithtoo/AndroidStudioProjects/CareerSmarto/app/src/main/res/mipmap-xhdpi/ic_launcher_professional.png"
+    },
+    {
+        "merged": "/Users/faithtoo/AndroidStudioProjects/CareerSmarto/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher_study.png",
+        "source": "/Users/faithtoo/AndroidStudioProjects/CareerSmarto/app/src/main/res/mipmap-xhdpi/ic_launcher_study.png"
+    },
+    {
+        "merged": "/Users/faithtoo/AndroidStudioProjects/CareerSmarto/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher_ptest.png",
+        "source": "/Users/faithtoo/AndroidStudioProjects/CareerSmarto/app/src/main/res/mipmap-xhdpi/ic_launcher_ptest.png"
+    },
+    {
+        "merged": "/Users/faithtoo/AndroidStudioProjects/CareerSmarto/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher_test.png",
+        "source": "/Users/faithtoo/AndroidStudioProjects/CareerSmarto/app/src/main/res/mipmap-xhdpi/ic_launcher_test.png"
+    },
+    {
+        "merged": "/Users/faithtoo/AndroidStudioProjects/CareerSmarto/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher_smart_choice.png",
+        "source": "/Users/faithtoo/AndroidStudioProjects/CareerSmarto/app/src/main/res/mipmap-xhdpi/ic_launcher_smart_choice.png"
+    }
+]

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_test"
+            android:icon="@drawable/report"
+            android:title="Take a test" />
+        <item
+            android:id="@+id/nav_career"
+            android:icon="@drawable/businessman"
+            android:title="Careers" />
+        <item
+            android:id="@+id/nav_personality"
+            android:icon="@drawable/mental"
+            android:title="Personality" />
+        <item
+            android:id="@+id/nav_guide"
+            android:icon="@drawable/continueto"
+            android:title="Guide" />
+    </group>
+
+    <!--<item android:title="Communicate">-->
+        <!--<menu>-->
+            <!--<item-->
+                <!--android:id="@+id/nav_share"-->
+                <!--android:icon="@drawable/ic_call"-->
+                <!--android:title="Call" />-->
+            <!--<item-->
+                <!--android:id="@+id/nav_send"-->
+                <!--android:icon="@drawable/ic_textsms"-->
+                <!--android:title="Text" />-->
+        <!--</menu>-->
+    <!--</item>-->
+
+</menu>

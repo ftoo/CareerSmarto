@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/faithtoo/AndroidStudioProjects/CareerSmarto/app/build/intermediates/res/merged/debug/menu/activity_nav_drawer.xml",
+        "source": "/Users/faithtoo/AndroidStudioProjects/CareerSmarto/app/src/main/res/menu/activity_nav_drawer.xml"
+    },
+    {
+        "merged": "/Users/faithtoo/AndroidStudioProjects/CareerSmarto/app/build/intermediates/res/merged/debug/menu/search_menu.xml",
+        "source": "/Users/faithtoo/AndroidStudioProjects/CareerSmarto/app/src/main/res/menu/search_menu.xml"
+    },
+    {
+        "merged": "/Users/faithtoo/AndroidStudioProjects/CareerSmarto/app/build/intermediates/res/merged/debug/menu/nav.xml",
+        "source": "/Users/faithtoo/AndroidStudioProjects/CareerSmarto/app/src/main/res/menu/nav.xml"
+    },
+    {
+        "merged": "/Users/faithtoo/AndroidStudioProjects/CareerSmarto/app/build/intermediates/res/merged/debug/menu/menu_splash_screen.xml",
+        "source": "/Users/faithtoo/AndroidStudioProjects/CareerSmarto/app/src/main/res/menu/menu_splash_screen.xml"
+    },
+    {
+        "merged": "/Users/faithtoo/AndroidStudioProjects/CareerSmarto/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/faithtoo/AndroidStudioProjects/CareerSmarto/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/faithtoo/AndroidStudioProjects/CareerSmarto/app/build/intermediates/res/merged/debug/menu/search.xml",
+        "source": "/Users/faithtoo/AndroidStudioProjects/CareerSmarto/app/src/main/res/menu/search.xml"
+    }
+]
